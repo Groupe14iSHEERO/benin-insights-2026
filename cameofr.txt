@@ -1,0 +1,311 @@
+CAMEOEVENTCODE	DESCRIPTION DE L'ÉVÉNEMENT
+01	FAIRE UNE DÉCLARATION PUBLIQUE
+010	Faire une déclaration, non spécifiée ci-dessous
+011	Refuser le commentaire
+012	Faire un commentaire pessimiste
+013	Faire un commentaire optimiste
+014	Envisager une option politique
+015	Reconnaître ou revendiquer la responsabilité
+016	Nier la responsabilité
+017	S'engager dans un acte symbolique
+018	Faire un commentaire empathique
+019	Accord express
+02	APPEL
+020	Appel, non précisé ci-dessous
+021	Appel à la coopération matérielle, non précisé ci-dessous
+0211	Appel à la coopération économique
+0212	Appel à la coopération militaire
+0213	Appel à la coopération judiciaire
+0214	Appel au renseignement
+022	Appel à la coopération diplomatique, comme le soutien politique
+023	Appel à l'aide, non précisé ci-dessous
+0231	Appel à l'aide économique
+0232	Appel à l'aide militaire
+0233	Appel à l'aide humanitaire
+0234	Appel à la protection militaire ou au maintien de la paix
+024	Appel à une réforme politique, non précisé ci-dessous
+0241	Appel au changement de leadership
+0242	Appel à un changement de politique
+0243	Appel pour les droits
+0244	Appel au changement des institutions et du régime
+025	Appel au rendement
+0251	Appel à l'assouplissement des sanctions administratives
+0252	Appel à l'apaisement de la dissidence populaire
+0253	Appel à la libération de personnes ou de biens
+0254	Appel à l’assouplissement des sanctions économiques, au boycott ou à l’embargo
+0255	Appel à un objectif permettant une participation internationale (sans médiation)
+0256	Appel à la désescalade de l’engagement militaire
+026	Appeler les autres à se rencontrer ou à négocier
+027	Faire appel à d’autres pour régler un différend
+028	Appeler les autres à s'engager dans ou à accepter la médiation
+03	INTENTION EXPRESSE DE COOPÉRER
+030	Intention expresse de coopérer, non spécifiée ci-dessous
+031	Intention expresse de s'engager dans une coopération matérielle, non spécifiée ci-dessous
+0311	Exprimer son intention de coopérer économiquement
+0312	Exprimer son intention de coopérer militairement
+0313	Intention expresse de coopérer sur des questions judiciaires
+0314	Exprimer son intention de coopérer en matière de renseignement
+032	Exprimer son intention de fournir une coopération diplomatique telle qu’un soutien politique
+033	Intention expresse de fournir une aide matérielle, non spécifiée ci-dessous
+0331	Intention expresse de fournir une aide économique
+0332	Exprimer son intention de fournir une aide militaire
+0333	Exprimer son intention de fournir une aide humanitaire
+0334	Intention expresse de fournir une protection militaire ou un maintien de la paix
+034	Intention expresse d'instaurer une réforme politique, non spécifiée ci-dessous
+0341	Exprimer son intention de changer de direction
+0342	Exprimer son intention de changer de politique
+0343	Intention expresse de fournir des droits
+0344	Exprimer son intention de changer les institutions et le régime
+035	Intention expresse de céder, non spécifiée ci-dessous
+0351	Intention expresse d’alléger les sanctions administratives
+0352	Exprimer son intention d'apaiser la dissidence populaire
+0353	Intention expresse de libérer des personnes ou des biens
+0354	Exprimer son intention d’alléger les sanctions économiques, le boycott ou l’embargo
+0355	L’intention expresse autorise une participation internationale (pas de médiation)
+0356	Exprimer son intention de désamorcer l’engagement militaire
+036	Exprimer son intention de se rencontrer ou de négocier
+037	Intention expresse de régler le différend
+038	Intention expresse d’accepter la médiation
+039	Exprimer son intention de médiation
+04	CONSULTER
+040	Consulter, non précisé ci-dessous
+041	Discutez par téléphone
+042	Faire une visite
+043	Organiser une visite
+044	Rendez-vous dans un ÒhirdÓlocation
+045	Médiat
+046	S'engager dans la négociation
+05	S'ENGAGER DANS LA COOPÉRATION DIPLOMATIQUE
+050	S'engager dans une coopération diplomatique, non spécifiée ci-dessous
+051	Louer ou approuver
+052	Défendre verbalement
+053	Rassembler le soutien au nom de
+054	Accorder une reconnaissance diplomatique
+055	S'excuser
+056	Pardonner
+057	Signer un accord formel
+06	S'ENGAGER DANS LA COOPÉRATION MATÉRIELLE
+060	S'engager dans une coopération matérielle, non spécifiée ci-dessous
+061	Coopérer économiquement
+062	Coopérer militairement
+063	S'engager dans la coopération judiciaire
+064	Partager des renseignements ou des informations
+07	FOURNIR UNE AIDE
+070	Fournir une aide, non spécifiée ci-dessous
+071	Apporter une aide économique
+072	Apporter une aide militaire
+073	Apporter une aide humanitaire
+074	Assurer une protection militaire ou un maintien de la paix
+075	Accorder l'asile
+08	RENDEMENT
+080	Rendement, non précisé ci-dessous
+081	Alléger les sanctions administratives, non précisées ci-dessous
+0811	Assouplir les restrictions aux libertés politiques
+0812	Assouplir l’interdiction des partis politiques ou des hommes politiques
+0813	Assouplir le couvre-feu
+0814	Assouplir l’état d’urgence ou la loi martiale
+082	Faciliter la dissidence politique
+083	Accéder aux demandes ou exigences de réforme politique non spécifiées ci-dessous
+0831	Accéder aux demandes de changement de leadership
+0832	Accéder aux demandes de changement de politique
+0833	Accéder aux revendications de droits
+0834	Accéder aux demandes de changement des institutions et du régime
+084	Retour, libération, non spécifié ci-dessous
+0841	Retourner, libérer la ou les personnes
+0842	Restituer, libérer la propriété
+085	Assouplir les sanctions économiques, le boycott et l'embargo
+086	Autoriser une participation internationale non spécifiée ci-dessous
+0861	Recevoir le déploiement de soldats de maintien de la paix
+0862	Recevoir des inspecteurs
+0863	Autoriser l’acheminement de l’aide humanitaire
+087	Désamorcer l’engagement militaire
+0871	Déclarer une trêve, un cessez-le-feu
+0872	Assouplir le blocus militaire
+0873	Démobiliser les forces armées
+0874	Retraite ou capitulation militaire
+09	ENQUÊTER
+090	Enquêter, non spécifié ci-dessous
+091	Enquêter sur la criminalité, la corruption
+092	Enquêter sur les violations des droits de l'homme
+093	Enquêter sur une action militaire
+094	Enquêter sur les crimes de guerre
+10	DEMANDE
+100	Demande, non précisée ci-dessous
+101	Demander des informations, enquête
+1011	Exiger une coopération économique
+1012	Exiger une coopération militaire
+1013	Exiger une coopération judiciaire
+1014	Exiger une coopération en matière de renseignement
+102	Exiger un soutien politique
+103	Exiger de l’aide, de la protection ou du maintien de la paix
+1031	Exiger une aide économique
+1032	Exiger une aide militaire
+1033	Exiger une aide humanitaire
+1034	Exiger une protection militaire ou un maintien de la paix
+104	Exiger une réforme politique, non spécifiée ci-dessous
+1041	Exiger un changement de leadership
+1042	Exiger un changement de politique
+1043	Exiger des droits
+1044	Exiger un changement dans les institutions et le régime
+105	Exiger une médiation
+1051	Exiger l’assouplissement des sanctions administratives
+1052	Exigez un assouplissement de la dissidence politique
+1053	Exiger la libération de personnes ou de biens
+1054	Exiger l’assouplissement des sanctions économiques, du boycott ou de l’embargo
+1055	Exiger que la cible permette une implication internationale (sans médiation)
+1056	Exiger la désescalade de l’engagement militaire106 :[-5.0] Exiger le retrait
+107	Exiger un cessez-le-feu
+108	Réunion de demande, négociation
+11	DÉSAPPROUVER
+110	Désapprouver, non spécifié ci-dessous
+111	Critiquer ou dénoncer
+112	Accuser, non précisé ci-dessous
+1121	Accusation de crime, corruption
+1122	Accusation de violations des droits de l'homme
+1123	Accusation d'agression
+1124	Accusation de crimes de guerre
+1125	Accusation d'espionnage, de trahison
+113	Rassembler l’opposition contre
+114	Se plaindre officiellement
+115	Intenter une action en justice contre
+116	Reconnaître coupable ou responsable (légalement)
+12	REJETER
+120	Rejeter, non spécifié ci-dessous
+121	Rejeter la coopération matérielle
+1211	Rejeter la coopération économique
+1212	Rejeter la coopération militaire
+122	Rejeter la demande ou la demande d'aide matérielle, non précisée ci-dessous
+1221	Rejeter la demande d'aide économique
+1222	Rejeter la demande d'aide militaire
+1223	Rejeter la demande d'aide humanitaire
+1224	Rejeter la demande de protection militaire ou de maintien de la paix
+123	Rejeter la demande ou la demande de réforme politique, non spécifiée ci-dessous
+1231	Rejeter la demande de changement de direction
+1232	Rejeter la demande de changement de politique
+1233	Rejeter la demande de droits
+1234	Rejeter la demande de changement des institutions et du régime
+124	Refuser de céder, non spécifié ci-dessous
+1241	Refuser d'alléger les sanctions administratives
+1242	Refusez d’apaiser la dissidence populaire
+1243	Refuser de libérer des personnes ou des biens
+1244	Refuser d’alléger les sanctions économiques, le boycott ou l’embargo
+1245	Refuser de permettre une implication internationale (non médiation)
+1246	Refusez de désamorcer l’engagement militaire
+125	Rejeter la proposition de se rencontrer, de discuter ou de négocier
+126	Rejeter la médiation
+127	Rejeter le plan, accord pour régler le différend
+128	Défier les normes, la loi
+129	Veto
+13	MENACER
+130	Menacer, non précisé ci-dessous
+131	Menace de non-force, non précisée ci-dessous
+1311	Menacer de réduire ou d’arrêter l’aide
+1312	Menacer de boycott, d'embargo ou de sanction
+1313	Menacer de réduire ou de rompre les relations
+132	Menacer de sanctions administratives, non précisées ci-dessous
+1321	Menacer d'imposer des restrictions aux libertés politiques
+1322	Menacer d'interdire des partis politiques ou des hommes politiques
+1323	Menacer d'imposer un couvre-feu
+1324	Menacer d'imposer l'état d'urgence ou la loi martiale
+133	Menacer la dissidence politique, la protestation
+134	Menacer d'arrêter les négociations
+135	Menacer d'arrêter la médiation
+136	Menacer de mettre fin à l’implication internationale (non-médiation)
+137	Menacer de répression violente
+138	Menacer de recourir à la force militaire, non spécifiée ci-dessous
+1381	Menacer de blocus
+1382	Menacer l'occupation
+1383	Menacer des violences non conventionnelles
+1384	Menacer une attaque conventionnelle
+1385	Menacer une attaque avec des armes de destruction massive
+139	Donner un ultimatum
+14	PROTESTATION
+140	S'engager dans une dissidence politique, non spécifiée ci-dessous
+141	Manifester ou rallier
+1411	Manifester pour un changement de leadership
+1412	Manifester pour un changement de politique
+1413	Manifester pour les droits
+1414	Manifester pour un changement des institutions et du régime
+142	Mener une grève de la faim, non spécifiée ci-dessous
+1421	Mener une grève de la faim pour un changement de leadership
+1422	Mener une grève de la faim pour un changement de politique
+1423	Mener une grève de la faim pour les droits
+1424	Conduct hunger strike for change in institutions, regime
+143	Conduct strike or boycott, not specified below
+1431	Conduct strike or boycott for leadership change
+1432	Conduct strike or boycott for policy change
+1433	Conduct strike or boycott for rights
+1434	Conduct strike or boycott for change in institutions, regime
+144	Obstruct passage, block
+1441	Obstruct passage to demand leadership change
+1442	Obstruct passage to demand policy change
+1443	Obstruct passage to demand rights
+1444	Obstruct passage to demand change in institutions, regime
+145	Protest violently, riot
+1451	Engage in violent protest for leadership change
+1452	Engage in violent protest for policy change
+1453	Engage in violent protest for rights
+1454	Engage in violent protest for  change in institutions, regime
+15	EXHIBIT FORCE POSTURE
+150	Demonstrate military or police power, not specified below
+151	Increase police alert status
+152	Increase military alert status
+153	Mobilize or increase police power
+154	Mobilize or increase armed forces
+16	REDUCE RELATIONS
+160	Reduce relations, not specified below
+161	Reduce or break diplomatic relations
+162	Reduce or stop aid, not specified below
+1621	Reduce or stop economic assistance
+1622	Reduce or stop military assistance
+1623	Reduce or stop humanitarian assistance
+163	Impose embargo, boycott, or sanctions
+164	Halt negotiations
+165	Halt mediation
+166	Expel or withdraw, not specified below
+1661	Expel or withdraw peacekeepers
+1662	Expel or withdraw inspectors, observers
+1663	Expel or withdraw aid agencies
+17	COERCE
+170	Coerce, not specified below
+171	Seize or damage property, not specified below
+1711	Confiscate property
+1712	Destroy property
+172	Impose administrative sanctions, not specified below
+1721	Impose restrictions on political freedoms
+1722	Ban political parties or politicians
+1723	Impose curfew
+1724	Impose state of emergency or martial law
+173	Arrest, detain, or charge with legal action
+174	Expel or deport individuals
+175	Use tactics of violent repression
+18	ASSAULT
+180	Use unconventional violence, not specified below
+181	Abduct, hijack, or take hostage
+182	Physically assault, not specified below
+1821	Sexually assault
+1822	Torture
+1823	Kill by physical assault
+183	Conduct suicide, car, or other non-military bombing, not spec below
+1831	Carry out suicide bombing
+1832	Carry out car bombing
+1833	Carry out roadside bombing
+184	Use as human shield
+185	Attempt to assassinate
+186	Assassinate
+19	FIGHT
+190	Use conventional military force, not specified below
+191	Impose blockade, restrict movement
+192	Occupy territory
+193	Fight with small arms and light weapons
+194	Fight with artillery and tanks
+195	Employ aerial weapons
+196	Violate ceasefire
+20	USE UNCONVENTIONAL MASS VIOLENCE
+200	Use unconventional mass violence, not specified below
+201	Engage in mass expulsion
+202	Engage in mass killings
+203	Engage in ethnic cleansing
+204	Use weapons of mass destruction, not specified below
+2041	Use chemical, biological, or radiologicalweapons
+2042	Detonate nuclear weapons
