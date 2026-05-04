@@ -62,12 +62,11 @@ if df is not None:
         fig_tone = px.line(df_timeline, x='date', y='AvgTone', 
                           color_discrete_sequence=[COLORS['primary']])
         fig_tone.add_hline(y=0, line_dash="dash", line_color="gray")
-        st.plotly_chart(fig_tone, use_container_width=True)
+        st.plotly_chart(fig_tone, width="stretch")
 
     with row1_col2:
         st.subheader("⚖️ Coopération vs Conflit")
         conf_counts = df_filtered['IsConflict'].value_counts()
-        # On s'assure d'avoir les bonnes étiquettes même s'il manque une catégorie
         labels = []
         if 0 in conf_counts.index: labels.append('Coopération')
         if 1 in conf_counts.index: labels.append('Conflit')
@@ -75,21 +74,20 @@ if df is not None:
         fig_pie = px.pie(values=conf_counts.values, names=labels,
                         color_discrete_sequence=[COLORS['accent'], COLORS['primary']],
                         hole=0.4)
-        st.plotly_chart(fig_pie, use_container_width=True)
+        st.plotly_chart(fig_pie, width="stretch")
 
     # --- Carte ---
     st.subheader("🗺️ Localisation des Événements")
     if 'ActionGeo_Lat' in df_filtered.columns and 'ActionGeo_Long' in df_filtered.columns:
-        # On retire les lignes sans coordonnées pour la carte
         df_map_data = df_filtered.dropna(subset=['ActionGeo_Lat', 'ActionGeo_Long'])
         if not df_map_data.empty:
             df_geo = df_map_data.groupby(['ActionGeo_FullName', 'ActionGeo_Lat', 'ActionGeo_Long']).size().reset_index(name='count')
-            fig_map = px.scatter_mapbox(df_geo, lat="ActionGeo_Lat", lon="ActionGeo_Long", 
+            fig_map = px.scatter_map(df_geo, lat="ActionGeo_Lat", lon="ActionGeo_Long", 
                                        size="count", hover_name="ActionGeo_FullName",
                                        color_discrete_sequence=[COLORS['secondary']],
                                        zoom=6, height=500)
-            fig_map.update_layout(mapbox_style="carto-positron", margin={"r":0,"t":0,"l":0,"b":0})
-            st.plotly_chart(fig_map, use_container_width=True)
+            fig_map.update_layout(map_style="carto-positron", margin={"r":0,"t":0,"l":0,"b":0})
+            st.plotly_chart(fig_map, width="stretch")
         else:
             st.warning("Aucune donnée géographique disponible pour la période sélectionnée.")
 
@@ -98,8 +96,13 @@ if df is not None:
     st.sidebar.subheader("💡 Insights")
     st.sidebar.info("Utilisez ces résultats pour votre Executive Summary !")
     
-    st.sidebar.write(f"- **Polarisation :** Le ton moyen est de {df_filtered['AvgTone'].mean():.2f}.")
-    st.sidebar.write(f"- **Volume :** {len(df_filtered)} faits marquants recensés sur la période.")
+    st.sidebar.write(f"- **Volume :** {len(df_filtered)} événements.")
+    
+    st.sidebar.markdown("---")
+    st.sidebar.subheader("📍 Top 5 Zones")
+    top_locs = df_filtered['ActionGeo_FullName'].value_counts().head(5)
+    for loc, count in top_locs.items():
+        st.sidebar.write(f"**{loc}** : {count} mentions")
 
 else:
-    st.info("Veuillez patienter pendant la génération des données...")
+    st.info("Chargement des données en cours...")
