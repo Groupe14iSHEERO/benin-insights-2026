@@ -1,0 +1,159 @@
+﻿Analyse Géopolitique et Socio-économique du Bénin en 2025 : Ruptures Institutionnelles et Dynamiques de Résilience
+L’année 2025 s'inscrit dans l'histoire contemporaine du Bénin comme une période de paradoxes profonds, où les performances macroéconomiques robustes ont été systématiquement mises à l'épreuve par une instabilité sécuritaire et institutionnelle sans précédent. L'analyse des données de l'évolution temporelle du Global Knowledge Graph (GKG) pour cette période révèle des fluctuations majeures du volume médiatique et de la tonalité des discours, reflets directs des secousses politiques et des succès culturels qui ont jalonné l'année. Les mois de juin, novembre et décembre 2025 concentrent à eux seuls l'essentiel des dynamiques qui permettent d'expliquer les graphiques de sentiment et de polarité présentés. Alors que le mois de juin a été marqué par une crise diplomatique et énergétique aiguë avec le Niger, novembre a offert une parenthèse de consolidation institutionnelle et de rayonnement culturel, avant que décembre ne plonge le pays dans une crise de régime majeure consécutive à une tentative de coup d'État.
+Le mois de juin 2025 : la cristallisation des tensions régionales et l'impasse du pipeline
+Le mois de juin 2025 est caractérisé par un pic de négativité dans les indicateurs de tonalité, principalement dû à l'escalade du conflit diplomatique entre Cotonou et Niamey. Cette période marque un tournant dans la gestion de l'infrastructure pétrolière transnationale, transformant un projet d'intégration économique en un instrument de pression politique réciproque. La dégradation du climat de sécurité dans la zone dite du « triple point » (Bénin, Niger, Burkina Faso) a également contribué à cette atmosphère de crise.1
+Le blocus énergétique et la crise diplomatique avec le Niger
+La tension entre le président Patrice Talon et le général Abdourahamane Tiani du Niger a atteint son paroxysme au début du mois de juin. Le point de rupture s'est manifesté le 5 juin 2025, lorsque les autorités béninoises ont interpellé cinq ressortissants nigériens sur le terminal pétrolier de Sèmè-Kpodji.3 Ces individus, membres d'une équipe de supervision, ont été accusés de s'être introduits sur le site sans autorisation régulière, une accusation que Niamey a immédiatement qualifiée d'enlèvement et de provocation délibérée.3
+En réaction immédiate, le gouvernement nigérien a ordonné la fermeture des vannes de l'oléoduc Niger-Bénin dès le 6 juin 2025. Cette infrastructure, gérée en partenariat avec la China National Petroleum Corporation (CNPC), constitue le poumon économique de la transition nigérienne et une source importante de droits de passage pour le Bénin.4 L'arrêt des flux a eu un impact financier immédiat, les experts estimant les pertes de revenus à environ    millions de dollars par jour pour l'ensemble des parties prenantes.5
+
+
+Chronologie de la crise du pipeline (Juin 2025)
+	Événement Clé
+	Impact Immédiat
+	5 juin 2025
+	Arrestation de 5 cadres nigériens à Sèmè-Kpodji
+	Rupture du dialogue diplomatique 3
+	6 juin 2025
+	Fermeture unilatérale des vannes par le Niger
+	Arrêt des exportations de brut 3
+	12 juin 2025
+	Attaque du pipeline près de Salkam (Niger)
+	Sabotage logistique et 6 soldats tués 3
+	17 juin 2025
+	Publication d'analyses sur l'enlisement de la crise
+	Pessimisme médiatique accru 6
+	Cette impasse a été exacerbée par le refus persistant du Niger de rouvrir sa frontière terrestre avec le Bénin, malgré la levée des sanctions de la CEDEAO plus tôt dans l'année. Niamey justifie cette fermeture par des impératifs de sécurité nationale, soupçonnant Cotonou d'abriter des bases militaires étrangères hostiles, tandis que Patrice Talon a fait de la réouverture des frontières une condition sine qua non pour l'embarquement du pétrole brut.3 Cette « guerre des vannes » explique la chute brutale de la tonalité moyenne en juin, visible sur les graphiques, où le score de polarité atteint   , témoignant d'une forte divergence des récits médiatiques.
+L'insécurité frontalière et la menace djihadiste
+Parallèlement au contentieux pétrolier, le mois de juin 2025 a vu une recrudescence des attaques asymétriques dans le nord du pays. La zone frontalière est devenue un sanctuaire pour des groupes affiliés à Al-Qaïda (JNIM) et à l'État islamique, qui exploitent les fragilités sociales et les tensions communautaires.8 Le 12 juin 2025, une attaque menée par des éléments armés contre un poste de garde de l'oléoduc dans la région de Dosso a coûté la vie à six soldats, illustrant la vulnérabilité des infrastructures stratégiques face aux tactiques de guérilla.3
+L'analyse sécuritaire publiée en juin souligne que le Bénin fait face à une crise holistique où la réponse militaire seule s'avère insuffisante. Les groupes armés s'enracinent durablement dans les parcs nationaux (W et Pendjari), utilisant le relief accidenté et les points d'eau pour établir des bases arrière.1 En juin, la tonalité négative est également alimentée par les rapports sur la pauvreté croissante dans ces régions septentrionales, fournissant un terreau fertile au recrutement des insurgés.8
+Incertitude diplomatique internationale
+Un autre facteur contributif à la volatilité de juin 2025 réside dans le contexte diplomatique global. Avec l'approche de la mise en œuvre de nouvelles orientations politiques aux États-Unis, une phase d'incertitude s'est ouverte quant à la pérennité du soutien sécuritaire américain aux pays côtiers du Golfe de Guinée.8 Le risque d'un retrait des forces de coopération ou d'une réduction des programmes de formation militaire a suscité des inquiétudes majeures, laissant craindre un vide que pourraient combler d'autres puissances comme la Russie, la Chine ou la Turquie.8 Cette perspective d'instabilité géopolitique a pesé sur le sentiment général, renforçant la perception d'un Bénin vulnérable à ses frontières.
+Le mois de novembre 2025 : un sursaut de positivité entre réformes et rayonnement culturel
+Le graphique de tonalité mensuelle montre une remontée significative en novembre 2025, atteignant un point d'équilibre proche de la neutralité, voire légèrement positif dans certains segments. Cette embellie s'explique par une convergence d'événements institutionnels stabilisateurs, de succès sportifs nationaux et d'une activité culturelle intense.
+La révision constitutionnelle : un pari sur la stabilité
+L'événement politique phare du mois s'est déroulé dans la nuit du 14 au 15 novembre 2025, avec l'adoption par l'Assemblée nationale d'une révision majeure de la Constitution du 11 décembre 1990.10 Bien que critiquée par l'opposition pour son caractère unilatéral, cette réforme a été présentée par le gouvernement et les médias officiels comme une étape nécessaire pour renforcer la stabilité institutionnelle du pays.
+Les principaux piliers de cette réforme adoptée en novembre incluent :
+* La création d'un Sénat : Le passage à un Parlement bicaméral vise à assurer une meilleure représentation des collectivités territoriales et à améliorer la qualité de la production législative.10
+* L'harmonisation des calendriers électoraux : Cette mesure a pour but de synchroniser les élections présidentielles, législatives et municipales, réduisant ainsi la fréquence des périodes de tension pré-électorale et les coûts d'organisation.
+* L'allongement de la durée des mandats : Le prolongement des mandats électifs de cinq à sept ans a été justifié par la nécessité de donner au pouvoir exécutif le temps nécessaire pour mener à bien de vastes programmes de développement structurel.11
+Le gouvernement a accompagné cette adoption par une grande tournée nationale de vulgarisation, notamment à Sô-Ava et Abomey-Calavi, où les populations ont été sensibilisées aux avantages supposés de cette « nouvelle page constitutionnelle ».11 Cette communication active a généré un volume important d'articles à tonalité positive, contribuant à la hausse de l'humeur médiatique globale observée sur les graphiques.
+L'essor des industries culturelles et créatives
+Novembre 2025 a également été marqué par une vitalité culturelle exceptionnelle, servant de vecteur de diplomatie douce pour le Bénin. Deux événements majeurs ont dominé l'actualité :
+1. Le Salon National du Livre : Organisé à Cotonou, ce salon a été un carrefour d'échanges entre auteurs béninois et la diaspora. Il a été célébré comme un instrument stratégique de rayonnement culturel, renforçant le lien mémoriel entre le livre et l'identité nationale.12
+2. Le Salon des Industries Musicales d'Afrique (SIMA) : La deuxième édition du SIMA s'est tenue du 10 au 15 novembre 2025 à Cotonou, attirant des milliers de participants, dont des artistes, producteurs et promoteurs venus de toute l'Afrique francophone.13
+Ces manifestations, couplées à la Journée de l'écrivain africain le 7 novembre, ont mis en lumière le potentiel du Bénin comme hub culturel régional.14 La promotion du label « Made in Bénin » et la valorisation du patrimoine, notamment à travers des initiatives de tourisme durable comme à Gogo-Timpon, ont nourri un récit national constructif et optimiste.14
+Les Guépards : le football comme ciment national
+Le sentiment de fierté nationale a été considérablement renforcé en novembre par les performances de l'équipe nationale de football. Le 21 novembre 2024, les Guépards avaient déjà marqué les esprits en se qualifiant pour la CAN 2025 après un match épique en Libye.15 En novembre 2025, cette dynamique s'est poursuivie avec une préparation intense pour la phase finale.
+Le 14 novembre 2025 a été une date symbolique forte avec la remise officielle d'un nouveau bus de luxe à la Fédération Béninoise de Football, offert par un partenaire privé pour renforcer la logistique de l'équipe.16 Ce même jour, l'équipe a effectué un match-test interne à Cotonou devant un public enthousiaste, confirmant sa montée en puissance sous la direction de Gernot Rohr.18 Ces moments de communion populaire autour des « Guépards » expliquent la prédominance du score positif en novembre, comme l'indique le troisième graphique du rapport GKG.
+
+
+Événements Positifs (Novembre 2025)
+	Nature de l'événement
+	Impact perçu
+	14-15 novembre
+	Vote de la révision constitutionnelle
+	Stabilité institutionnelle affichée 10
+	10-15 novembre
+	SIMA 2025 à Cotonou
+	Professionnalisation de la culture 13
+	14 novembre
+	Remise du nouveau bus des Guépards
+	Fierté et soutien au sport national 17
+	27 novembre
+	Évaluation positive de la lutte antiterroriste
+	Crédibilité internationale 19
+	Perspectives économiques et budgétaires
+Sur le front économique, le mois de novembre a été marqué par la présentation et la défense du budget 2026 à l'Assemblée nationale. La ministre de l'Industrie et du Commerce a dévoilé un budget en forte progression, axé sur la souveraineté économique et la promotion des exportations.20 Les indicateurs de croissance pour 2025, estimés à    par la Banque mondiale, ont été largement commentés, renforçant l'image d'une économie béninoise résiliente malgré les chocs extérieurs.21 Cette confiance des institutions financières internationales a agi comme un stabilisateur pour le sentiment général durant ce mois.
+Le mois de décembre 2025 : la rupture brutale de l'ordre constitutionnel
+Le graphique GKG pour décembre 2025 affiche une explosion du volume d'articles (plus de   , soit le double de la moyenne annuelle) accompagnée d'une chute libre de la tonalité moyenne. Ce profil statistique est la conséquence directe de la tentative de coup d'État du 7 décembre 2025, un événement traumatique qui a ébranlé les fondements de la démocratie béninoise.
+La tentative de coup d'État du 7 décembre 2025
+L'événement majeur de décembre s'est déclenché aux premières heures du dimanche 7 décembre. Un groupe d'officiers et de sous-officiers, mené par le lieutenant-colonel Pascal Tigri, commandant des Forces spéciales, a tenté de renverser le régime du président Patrice Talon.22 Cette tentative de putsch est la première immixtion sérieuse de l'armée dans le champ politique béninois depuis 1972, mettant fin à des décennies de stabilité démocratique relative.6
+Chronologie de l'insurrection du 7 décembre :
+* 02h10 : Des mutins partent du camp militaire de Togbin et attaquent le domicile du général Bertin Bada à Abomey-Calavi pour tenter de l'enlever. Le général s'échappe, mais son épouse, Berthe Bada, est mortellement blessée et sa fille est enlevée.23
+* 03h30 : Assaut contre la résidence du chef d'état-major de l'armée, le général Abou Issa, qui parvient à résister avec ses gardes loyalistes.24
+* 05h00 : Des tirs nourris éclatent autour de la résidence présidentielle de la Marina. Les putschistes utilisent des armes lourdes et des blindés.22
+* 06h30 : Un groupe d'insurgés s'empare des locaux de la télévision nationale (RTB) et diffuse un communiqué annonçant la création d'un « Comité militaire pour la refondation » et la démission forcée du président Talon.22
+* 09h00 : Les forces loyalistes, avec le soutien technique et logistique du Nigeria et de la France, lancent une contre-offensive. Des frappes aériennes ciblées sont menées sur les positions des mutins à Togbin.23
+* 12h00 : Le gouvernement annonce que la situation est sous contrôle et que l'ordre républicain est pleinement maintenu.22
+Cet événement explique le pic de volume d'articles : la presse internationale (AFP, Reuters, TV5 Monde) s'est immédiatement saisie de l'information, et l'Union Africaine ainsi que la CEDEAO ont condamné l'acte avec la plus grande fermeté.22
+La bataille de l'information et la prolifération des fake news
+Le mois de décembre a été marqué par une crise informationnelle intense. Le climat de confusion qui a suivi le putsch déjoué a favorisé la circulation de contenus trompeurs sur les réseaux sociaux. Des vidéos manipulées, dont certaines utilisant l'intelligence artificielle pour faire croire à une adhésion massive de l'armée au coup d'État, ont été diffusées à large échelle.23
+Un faux communiqué attribué au gouvernement ivoirien a également circulé le 9 décembre, affirmant que la Côte d'Ivoire soutenait le renversement de l'ordre constitutionnel au Bénin.26 Ce type de désinformation a nécessité une mobilisation rapide des organismes de fact-checking comme Dubawa et Africa Check pour rétablir la vérité.26 Cette instabilité informationnelle est l'un des moteurs de la forte volatilité de la tonalité observée en décembre sur les graphiques.
+Répression, arrestations et durcissement politique
+Les suites du 7 décembre ont été marquées par une vague de répression judiciaire. Plus de 30 personnes, principalement des militaires mais aussi des civils, ont été placées sous mandat de dépôt à Cotonou.28 Le lieutenant-colonel Pascal Tigri, ayant réussi à fuir vers le Niger, fait l'objet d'un mandat d'arrêt international.6
+Le pouvoir a également ciblé des figures de l'opposition, accentuant la fracture politique :
+* Chabi Yayi : Le fils de l'ancien président Boni Yayi a été interpellé le 14 décembre et interrogé par la police judiciaire avant d'être remis en liberté sous convocation.28
+* Candide Azannaï : L'ancien ministre de la Défense et opposant de longue date a été arrêté le 12 décembre.28
+* Kemi Seba : L'activiste panafricaniste, ayant salué le putsch depuis l'étranger, est visé par un mandat d'arrêt pour incitation à la rébellion.6
+
+
+Bilan de la crise de décembre 2025
+	Donnée Statistique / Acteur
+	Statut / Conséquence
+	Arrestations
+	~31 à 100 personnes
+	Incarcérées ou poursuivies 24
+	Victimes civiles
+	1 décès notable
+	Berthe Bada 24
+	Forces engagées
+	Garde Républicaine vs Mutins
+	Victoire des loyalistes 23
+	Soutien international
+	France, Nigeria, CEDEAO
+	Intervention décisive 6
+	Ce tournant autoritaire perçu, qualifié de « chasse aux sorcières » par certains observateurs, explique pourquoi le score négatif reste très élevé tout au long de la fin du mois de décembre. Le moral de la population a été durement affecté par cette rupture du contrat social, comme l'a admis le président Talon lors d'une allocution où il déclarait que son « moral avait pris un coup ».28
+Analyse comparative des indicateurs GKG et corrélation avec les événements
+Les graphiques fournis par l'utilisateur pour l'année 2025 permettent de visualiser l'impact de ces événements sur la perception médiatique globale du pays. La corrélation entre les faits historiques et les mouvements statistiques est saisissante.
+Volume d'articles et visibilité internationale
+La moyenne annuelle du volume d'articles s'établit à   . Le mois de juin, bien que tendu, reste en dessous de cette moyenne (   articles environ), ce qui suggère que la crise du pipeline a été traitée comme une affaire régionale, n'ayant pas encore capté l'attention mondiale totale. En revanche, le pic de décembre (   articles) montre que le Bénin est devenu le centre d'intérêt majeur de l'actualité africaine suite à la tentative de coup d'État. Ce volume élevé reflète non seulement l'événement lui-même, mais aussi les réactions diplomatiques en cascade et le débat sur la « contagion putschiste » en Afrique de l'Ouest.
+Tonalité moyenne et volatilité
+Le graphique de tonalité mensuelle montre deux chutes spectaculaires :
+1. En juin : La tonalité descend sous la barre des   , ce qui s'explique par les termes négatifs associés au blocus pétrolier (« blocage », « arrestation », « terrorisme », « insécurité »).
+2. En décembre : La tonalité chute encore plus bas, atteignant presque   . C'est le point le plus bas de l'année. Les mots clés sont ici « coup d'État », « assassinats », « mutinerie », « trahison ».
+L'écart-type (zone ombrée orange) est particulièrement large en décembre, ce qui indique une très forte volatilité. Cela est dû à la coexistence de deux récits : le discours officiel rassurant du gouvernement (« tout est sous contrôle ») et les informations alarmantes sur les combats et les arrestations massives.
+Polarité et scores de sentiment
+Le score de polarité, qui mesure l'écart entre les sentiments positifs et négatifs, atteint son apogée en juin (  ). Cela indique qu'en juin, il n'y avait presque aucun consensus médiatique ; les articles étaient soit extrêmement critiques vis-à-vis du Niger, soit inquiets de la survie économique du Bénin.
+En novembre, la polarité redescend à   , proche de la moyenne annuelle (  ). C'est le mois où le score positif (courbe verte) dépasse pour la seule fois de l'année le score négatif (courbe rouge). Cela valide l'hypothèse d'une parenthèse enchantée en novembre, portée par le sport, la culture et l'espoir suscité par les réformes constitutionnelles.
+Synthèse analytique et implications pour l'avenir
+L'année 2025 se conclut sur une note de grande incertitude pour le Bénin. Si les performances économiques restent le point fort du régime, avec une croissance du PIB parmi les plus élevées d'Afrique, la fragilité de l'édifice politique a été mise à nu par les événements de décembre.
+La résilience économique face aux chocs politiques
+Malgré le blocus du pipeline en juin et le putsch en décembre, le Bénin a maintenu sa trajectoire de développement. La zone industrielle de Glo-Djigbé continue d'attirer des investissements, et la modernisation des infrastructures se poursuit.31 Cependant, la pérennité de cette croissance est désormais liée à la résolution du conflit diplomatique avec le Niger. Les pertes de revenus liées à l'arrêt du pétrole brut pourraient, à terme, compromettre les objectifs budgétaires ambitieux présentés en novembre pour l'exercice 2026.
+Le défi de la réconciliation nationale
+La tentative de coup d'État a révélé des divisions profondes, non seulement au sein de la classe politique, mais aussi au cœur de l'armée. Le fait que l'unité d'élite des Forces spéciales ait été le fer de lance de l'insurrection pose la question de la loyauté des troupes dans un contexte de fin de mandat présidentiel.6 Le défi pour 2026 sera de transformer le choc de décembre en une opportunité de dialogue national, comme l'ont appelé certains observateurs, pour éviter que le pays ne sombre dans un cycle de répression et d'instabilité.
+La place du Bénin dans l'équilibre sous-régional
+Enfin, 2025 a ancré le Bénin comme un acteur central, bien que malgré lui, de la confrontation entre les démocraties pro-occidentales de la CEDEAO et les régimes militaires de l'AES. L'intervention du Nigeria en décembre marque un tournant dans la coopération militaire régionale, faisant du Bénin le dernier rempart contre l'expansion de l'influence russe et des régimes putschistes vers le littoral.6 La capacité de Cotonou à gérer ces pressions extérieures tout en stabilisant son front intérieur déterminera la physionomie du pays pour la décennie à venir.
+L'étude des graphiques GKG 2025 n'est donc pas seulement un exercice statistique, mais une lecture à livre ouvert des souffrances, des espoirs et des luttes d'une nation en quête de son équilibre entre autorité et liberté, entre tradition et modernité. Les mois de juin, novembre et décembre resteront dans les annales comme les marqueurs temporels d'une année où le destin du Bénin a vacillé avant de chercher, en novembre, la voie d'un renouveau qui reste encore à consolider.
+Sources des citations
+   1. Le Bénin face à la crise sécuritaire régionale - Les Jeunes IHEDN, consulté le mai 4, 2026, https://www.jeunes-ihedn.org/2025/le-benin-face-a-la-crise-securitaire-regionale/
+   2. Au Niger, 'des dizaines' de civils tués dans une attaque attribuée aux djihadistes, consulté le mai 4, 2026, https://information.tv5monde.com/afrique/au-niger-des-dizaines-de-civils-tues-dans-une-attaque-attribuee-aux-djihadistes-2778178
+   3. Niger: six soldats tués dans une attaque de "bandits armés" contre un oléoduc - VOA Afrique, consulté le mai 4, 2026, https://www.voaafrique.com/a/niger-six-soldats-tu%C3%A9s-dans-une-attaque-de-bandits-arm%C3%A9s-contre-un-ol%C3%A9oduc/7658734.html
+   4. Projet Pipeline Niger-Bénin : 18 navires chargés depuis le début - La Nouvelle Tribune, consulté le mai 4, 2026, https://lanouvelletribune.info/2025/04/projet-pipeline-niger-benin-18-navires-charges-depuis-le-debut/
+   5. Niger Army Repels Attack On Key Oil Pipeline | WION Dispatch - YouTube, consulté le mai 4, 2026, https://www.youtube.com/watch?v=c8J5Erx9NJ8
+   6. Bénin : de quoi la tentative de coup d'État du 7 décembre est-elle le signe ? - IRIS, consulté le mai 4, 2026, https://www.iris-france.org/benin-de-quoi-la-tentative-de-coup-detat-du-7-decembre-est-elle-le-signe/
+   7. Niger-Benin pipeline crisis: No resolution in sight | Africanews, consulté le mai 4, 2026, https://www.africanews.com/2024/06/03/niger-benin-pipeline-crisis-no-resolution-in-sight/
+   8. Publications - Programme régional dialogue sur la sécurité en Afrique de l'Ouest - Konrad-Adenauer-Stiftung, consulté le mai 4, 2026, https://www.kas.de/fr/web/sipodi/publications
+   9. Adapter la riposte du Bénin contre les groupes militants violents, consulté le mai 4, 2026, https://africacenter.org/fr/publication/riposte-benin-contre-groupes-militants/
+   10. Cinq événements qui ont marqué le Bénin en 2025 – La Nouvelle ..., consulté le mai 4, 2026, https://lanouvelletribune.info/2026/01/cinq-evenements-qui-ont-marque-le-benin-en-2025/
+   11. [Replay] "Bonjour le Bénin" du mardi 25 novembre 2025 - YouTube, consulté le mai 4, 2026, https://www.youtube.com/watch?v=6wHz3ui57gA
+   12. Journal télévisé de 13h du 22 novembre 2025 - YouTube, consulté le mai 4, 2026, https://www.youtube.com/watch?v=w7J7Aue_Vq8
+   13. SIMA 2025 au Bénin: L'industrie musicale africaine se professionnalise davantage du 13 au 14 novembre - Afriquinfos, consulté le mai 4, 2026, https://afriquinfos.com/sima-2025-au-benin-lindustrie-musicale-africaine-se-professionnalise-davantage-ces-10-au-15-novembre/
+   14. Journal télévisé de 13h du 07 novembre 2025 - YouTube, consulté le mai 4, 2026, https://www.youtube.com/watch?v=JFYV2m9bnMw
+   15. CAN 2025 : qualifiés, les Guépards du Bénin accueillis en triomphe à Cotonou - News, consulté le mai 4, 2026, http://news.acotonou.com/h/155460.html
+   16. Journée FIFA de novembre 2025 : Les Guépards se testent en beauté à Cotonou, consulté le mai 4, 2026, https://megasportsmedia.com/journee-fifa-novembre-2025-guepards-benin-test/
+   17. Bénin : Les Guépards reçoivent un nouveau bus pour renforcer leur logistique, consulté le mai 4, 2026, https://beninfootball.com/benin-les-guepards-recoivent-un-nouveau-bus-pour-renforcer-leur-logistique
+   18. Match-test : Les Guépards s'opposent en interne ce vendredi 14 novembre 2025, consulté le mai 4, 2026, https://megasportsmedia.com/match-guepards-benin-sopposent-novembre-2025/
+   19. Les Nations Unies au Bénin, consulté le mai 4, 2026, https://benin.un.org/fr
+   20. Bénin / Budget 2026 - MIC, consulté le mai 4, 2026, https://commerce.gouv.bj/actualite/benin-budget-2026
+   21. Bénin | Groupe de la Banque mondiale, consulté le mai 4, 2026, https://www.banquemondiale.org/ext/fr/country/benin
+   22. Bénin : tentative de coup d'État déjouée dimanche 7 décembre ..., consulté le mai 4, 2026, https://www.financialafrik.com/2025/12/07/benin-tentative-de-coup-detat-en-cours-dimanche-7-decembre-mise-a-jour-en-continu/
+   23. Le journal télévisé de 20h du 8 décembre 2025 - YouTube, consulté le mai 4, 2026, https://www.youtube.com/watch?v=TvAsPvMQyqI
+   24. 2025 Beninese coup attempt - Wikipedia, consulté le mai 4, 2026, https://en.wikipedia.org/wiki/2025_Beninese_coup_attempt
+   25. Le Président de la Commission de l'Union Africaine condamne avec la plus grande fermeté la tentative de coup d'état militaire en République du Bénin – 7 Décembre 2025, consulté le mai 4, 2026, https://au.int/fr/pressreleases/20251207/le-president-de-la-cua-condamne-la-tentative-de-coup-detat-militaire-au-benin
+   26. Tentative de coup d'État au Bénin du 7 décembre 2025, un faux communiqué attribué au gouvernement ivoirien - Dubawa, consulté le mai 4, 2026, https://dubawa.org/tentative-de-coup-detat-au-benin-du-7-decembre-2025-un-faux-communique-attribue-au-gouvernement-ivoirien/
+   27. Une fausse publication annonçant un coup d'État survenu au Bénin en janvier 2025, consulté le mai 4, 2026, https://africacheck.org/fr/fact-checks/meta-programme-fact-checks/infox-coup-detat-au-benin-janvier-2025-talon
+   28. Tentative de coup d'État au Bénin: des militaires incarcérés, des ..., consulté le mai 4, 2026, https://information.tv5monde.com/afrique/tentative-de-coup-detat-au-benin-des-militaires-incarceres-des-figures-de-lopposition-inquietees-2801661
+   29. Bénin : inculpation d'une trentaine de personnes après la tentative de coup d'État manquée, consulté le mai 4, 2026, https://www.youtube.com/watch?v=6lTuT3_An-k
+   30. Le Bénin offre 20 millions de FCA pour la capture du cerveau du putsch manqué - YouTube, consulté le mai 4, 2026, https://www.youtube.com/watch?v=5WOLV_w4Yn4
+   31. Benin: A Decade of Infrastructure-Driven Transformation - Ecofin Agency, consulté le mai 4, 2026, https://www.ecofinagency.com/news/2804-55058-benin-a-decade-of-infrastructure-driven-transformation
+   32. Le Bénin lance 04 centrales photovoltaïques pour éclairer 50 000 foyers Le Japon dote les CEG d'Adjan et Zè d'infrastructure - ANSSFD, consulté le mai 4, 2026, https://anssfd.bj/wp-content/uploads/2025/09/2982-du-Mercredi-03-Septembre-2025.pdf
