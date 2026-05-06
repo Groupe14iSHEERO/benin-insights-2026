@@ -9,12 +9,24 @@ des insights utiles aux journalistes, chercheurs et decideurs.
 
 ## Structure
 ```
-data/raw/monthly/          # Events GDELT par mois (Parquet)
-data/processed/            # Donnees nettoyees + visualisations
-models/rf_classifier.pkl   # Modele Random Forest
-dashboard/app.py           # Application Streamlit
-requirements.txt
-README.md
+benin-insights-2026/
+├── dashboard/
+│   └── app.py                    ← Application Streamlit
+├── data/
+│   ├── raw/                      ← Données brutes GDELT
+│   └── processed/
+│       ├── gdelt_benin_clean.csv ← Dataset nettoyé (8 000 événements)
+│       ├── insights.json         ← 5 insights non-techniques
+│       └── viz*.png              ← Visualisations générées
+├── notebooks/
+│   └── 01_DE_Pipeline.ipynb      ← Pipeline Données (DE)
+│   └── 02_exploration.ipynb      ← EDA (DS+DA)
+│   └── 03_ML_models.ipynb      ← Modèles ML (ME+DS)
+│   └── 04_Prediction_Prospective_Benin.ipynb      ← Modele de prédiction (ME+DS)
+├── 🤖 models/
+│   └── models_bundle.pkl         ← K-Means + Random Forest + scalers
+├── requirements.txt
+└── README.md
 ```
 
 ## Installation
