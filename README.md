@@ -18,13 +18,13 @@ benin-insights-2026/
 │       ├── gdelt_benin_clean.csv ← Dataset nettoyé (8 000 événements)
 │       ├── insights.json         ← 5 insights non-techniques
 │       └── viz*.png              ← Visualisations générées
+├── models/
+│   └── models_bundle.pkl         ← K-Means + Random Forest + scalers
 ├── notebooks/
 │   └── 01_DE_Pipeline.ipynb      ← Pipeline Données (DE)
 │   └── 02_exploration.ipynb      ← EDA (DS+DA)
 │   └── 03_ML_models.ipynb      ← Modèles ML (ME+DS)
 │   └── 04_Prediction_Prospective_Benin.ipynb      ← Modele de prédiction (ME+DS)
-├── 🤖 models/
-│   └── models_bundle.pkl         ← K-Means + Random Forest + scalers
 ├── requirements.txt
 └── README.md
 ```
